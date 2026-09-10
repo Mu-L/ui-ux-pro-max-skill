@@ -45,18 +45,18 @@ An AI skill that provides design intelligence for building professional UI/UX ac
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/brand/wordmark-dark.svg">
-    <img src="https://github.com/mrgoonie/3dviz-pro-max/blob/99cba02614d22e3cefdb88f1ebcfd77a7def1aea/docs/brand/wordmark.svg" alt="3Dviz Pro Max" height="56">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.nextlevelbuilder.io/skills/3dviz/wordmark-dark.svg">
+    <img src="https://cdn.nextlevelbuilder.io/skills/3dviz/wordmark.svg" alt="3Dviz Pro Max" height="56">
   </picture>
 </p>
 
 <p align="center"><b>Turn an idea into a 3D scene worth exploring.</b></p>
 
 <p align="center">
-  <img src="[docs/demos/harness-village.gif](https://github.com/mrgoonie/3dviz-pro-max/blob/99cba02614d22e3cefdb88f1ebcfd77a7def1aea/docs/demos/harness-village.gif)" width="800" alt="Harness Village: a fantasy village with camera navigation and animated creatures">
+  <img src="https://cdn.nextlevelbuilder.io/skills/3dviz/harness-village.gif" width="800" alt="Harness Village: a fantasy village with camera navigation and animated creatures">
 </p>
 
-🤌 Website: https://3dviz.dev/
+🤌 Website: [https://3dviz.dev/](https://3dviz.dev/)
 
 ## What's New in v2.0
 
